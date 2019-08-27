@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"window.zoomLevel": 0,
+		"terminal.integrated.fontSize": 15,
+		"workbench.iconTheme": "vscode-icons",
+		"workbench.colorCustomizations": {
+			"sideBar.background": "#000000",
+			"activityBar.background": "#000000",
+			"editor.background": "#000000",
+			"editor.selectionForeground": "#00AC00",
+			"editor.foreground": "#cc00ff",
+			"editorLineNumber.activeForeground": "#ff0000",
+			"editorLineNumber.foreground": "#ffffff",
+			"descriptionForeground": "#5eff00",
+			"editor.selectionHighlightBackground": "#b8b8b833",
+			"terminal.background": "#000000",
+			"terminal.foreground": "#47d4df",
+			"textCodeBlock.background": "#ff0000",
+			"editorCodeLens.foreground": "#eeff00",
+			"editorUnnecessaryCode.border": "#ff0000",
+			"editorUnnecessaryCode.opacity": "#10ee53dc",
+			"editorGutter.commentRangeForeground": "#d0ce89",
+			"editorOverviewRuler.selectionHighlightForeground": "#ff0000"
+		},
+		"files.autoSaveDelay": 1000,
+		"files.autoSave": "onFocusChange",
+		"workbench.colorTheme": "Sublime Monokai"
+	}
+}
