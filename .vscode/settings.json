@@ -1,6 +1,6 @@
 {
-    "python.linting.pylintEnabled":false,
-    "python.linting.enabled":false,
+    "python.linting.pylintEnabled":true,
+    "python.linting.enabled":true,
     // yapf
     "python.formatting.provider": "yapf",
     "python.formatting.blackPath": "${workspaceRoot}/.venv/bin/black",
